@@ -1,0 +1,2 @@
+Po sortowaniu: 6972640 0 6947152 0 33 39 54 59 66 68 
+Przed sortowaniem: 68 25 33 54 66 39 59 8 30 10 

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1610376798 source:c:\users\btrze\onedrive\pulpit\projekt_aisd2\projekt_aisd_2\main.cpp
+	<iostream>
+	<time.h>
+	<fstream>
+	<string>
+	<iomanip>
+	<windows.h>
+
+1610376798 source:c:\users\btrze\onedrive\pulpit\projekt_aisd2\program\main.cpp
+	<iostream>
+	<time.h>
+	<fstream>
+	<string>
+	<iomanip>
+	<windows.h>
+
